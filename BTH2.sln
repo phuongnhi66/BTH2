@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTH2", "BTH2\BTH2.csproj", "{7F3CF293-6608-4BAF-ADFD-225D3DA39FF4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTH2", "BTH2.csproj", "{7F3CF293-6608-4BAF-ADFD-225D3DA39FF4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
