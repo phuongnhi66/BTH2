@@ -18,8 +18,13 @@ namespace BTH2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int soa;
-            int sob;
+           string a,b,ketqua;
+
+
+            a = textBox1.Text;
+            b = textBox2.Text;
+            ketqua= a + b;
+        }
         }
     }
 }
