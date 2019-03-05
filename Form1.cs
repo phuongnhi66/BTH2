@@ -15,5 +15,15 @@ namespace BTH2
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string a,b,kq;
+
+
+            a = textBox1.Text;
+            b = textBox2.Text;
+            kq= a + b;
+        }
     }
 }
